@@ -1,0 +1,11 @@
+main {
+  width: fit-content;
+  margin: 0 auto;
+}
+table {
+  border: 8px inset gray;
+}
+td,
+th {
+  border: 1px solid black;
+}
